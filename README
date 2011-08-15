@@ -1,0 +1,7 @@
+Getting Started
+
+If running web server locally, turn on phone wifi.
+
+Open res/values/strings and set host to web server ip address.
+
+Set google maps api key in res/layout/location_activity.xml
